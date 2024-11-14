@@ -12,7 +12,6 @@ Computer system with a suitable operating system.
 ## PROCEDURE:
 
 Launch Vivado 2023.1:
-
 Open Vivado and create a new project.
 Design the Verilog Code:
 
@@ -32,6 +31,7 @@ Analyze the output waveforms in the simulation window, and verify that the corre
 Save and Document Results:
 
 Capture screenshots of the waveform and save the simulation logs. These will be included in the lab report.
+
 
 ## DIAGRAM:
 
